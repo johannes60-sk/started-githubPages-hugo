@@ -5,21 +5,21 @@
     
     
     
-    <link>https://example.org/</link>
+    <link>https://johannes60-sk.github.io/started-githubPages-hugo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Nov 2023 14:00:02 +0100</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johannes60-sk.github.io/started-githubPages-hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://example.org/posts/blog/</link>
+      <link>https://johannes60-sk.github.io/started-githubPages-hugo/posts/blog/</link>
       <pubDate>Tue, 14 Nov 2023 14:00:02 +0100</pubDate>
       
-      <guid>https://example.org/posts/blog/</guid>
+      <guid>https://johannes60-sk.github.io/started-githubPages-hugo/posts/blog/</guid>
       <description>
         
           
