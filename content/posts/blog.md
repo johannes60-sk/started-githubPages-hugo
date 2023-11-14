@@ -20,6 +20,7 @@ Voici une liste a puces:
 - Point 3
 - Point 4
 - Point 5
+- Point 6
 
 Et une image :
 
