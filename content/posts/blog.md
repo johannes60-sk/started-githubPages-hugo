@@ -1,7 +1,7 @@
 +++
 title = 'Blog'
 date = 2023-11-14T14:00:02+01:00
-draft = true
+draft = false
 +++
 
 ## Introduction
